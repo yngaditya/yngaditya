@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yngaditya
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Data mining, Mobile application development
+- 👀 I’m interested in web development and game devevlopment
+- 🌱 I’m currently learning web designing, AR and VR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
