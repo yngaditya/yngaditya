@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yngaditya
-- 👀 I’m interested in web development and game devevlopment
-- 🌱 I’m currently learning web designing, AR and VR
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m  web development 
+- 🌱 I’m currently learning web designing, React Js, Mongo DB and Node js
+- 💞️ I’m looking to collaborate on exciting web project.
+- 📫 Reach me by mail on kumaraditya2168@gmail.com
 
 <!---
 yngaditya/yngaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
